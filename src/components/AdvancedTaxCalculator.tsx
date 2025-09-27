@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Calculator, TrendingUp, DollarSign, PieChart, Settings, Download } from 'lucide-react';
+import { Calculator, TrendingUp, DollarSign, ChartPie as PieChart, Settings, Download } from 'lucide-react';
 import { FilingStatus, TaxCalculation, UserProfile, Deductions } from '../types';
 import { AdvancedTaxEngine } from '../utils/advancedTaxEngine';
 import { motion } from 'framer-motion';

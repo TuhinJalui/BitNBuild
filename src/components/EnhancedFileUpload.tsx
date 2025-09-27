@@ -1,5 +1,5 @@
 import React, { useCallback, useState } from 'react';
-import { Upload, File, X, CheckCircle, AlertCircle, Eye, Download } from 'lucide-react';
+import { Upload, File, X, CircleCheck as CheckCircle, CircleAlert as AlertCircle, Eye, Download } from 'lucide-react';
 import { FileAttachment } from '../types';
 import { motion, AnimatePresence } from 'framer-motion';
 import toast from 'react-hot-toast';
